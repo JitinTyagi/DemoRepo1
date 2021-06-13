@@ -1,1 +1,2 @@
-This is some other file in git repo
+This is some other file in git repo.
+Making First change in this file after first commit.
