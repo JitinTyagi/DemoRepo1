@@ -1,2 +1,3 @@
 This is some other file in git repo.
-Making First change in this file after first commit.
+Making First change in this file after first commit. Changing same line
+Adding line with line change to observe change
