@@ -3,3 +3,5 @@ This file has been added to the staging.
 Making first change after first commit.
 Making first change after second commit.
 Making Second Change after second commit.Making Change in existing line.....
+
+Editing first file to observe changes in git
